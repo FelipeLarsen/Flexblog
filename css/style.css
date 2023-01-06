@@ -1,3 +1,27 @@
-body {
-  font-family: Nunito;
-}
+/* GLOBAL */
+@import './Global/global.css';
+
+/* HEADER */
+@import './Header/superinfo.css';
+@import './Header/menu.css';
+
+/* INTRODUCAO */
+@import './Introducao/introducao.css';
+
+/* SOBRE */
+@import './Sobre/sobre.css';
+
+/* PRODUTOS */
+@import './Produtos/produtos.css';
+
+/* PRECO */
+@import './Preco/preco.css';
+
+/* QUALIDADE */
+@import './Qualidade/qualidade.css';
+
+/* NEWSLETTER */
+@import './Newsletter/newsletter.css';
+
+/* FOOTER */
+@import './Footer/footer.css';
